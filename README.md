@@ -25,7 +25,7 @@ My prof says it's pointless learning C, so naturally, I'm learning it.
 ## Understanding 
 
 - preprocessor: only knows about lines of text. 
-- ```a #``` is a preprocessor directive
+- ```a #``` is a preprocessor directive (like C++ ```#include <iostream>```, etc
 
 
 
