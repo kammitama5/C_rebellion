@@ -11,6 +11,10 @@ My prof says it's pointless learning C, so naturally, I'm learning it.
 
 ```filename```
 
+- using make -> ```make filename```
+
+```./filename```
+
 - Declaration 
 ```
 #define PI     3.141592
