@@ -11,6 +11,16 @@ My prof says it's pointless learning C, so naturally, I'm learning it.
 
 ```filename```
 
+- Declaration 
+```
+#define PI     3.141592
+```
+
+## Understanding 
+
+- preprocessor: only knows about lines of text. 
+- ```a #``` is a preprocessor directive
+
 
 
 
