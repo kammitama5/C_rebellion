@@ -11,7 +11,9 @@ My prof says it's pointless learning C, so naturally, I'm learning it.
 
 ```filename```
 
-- using make -> ```make filename```
+- ***Using make:***
+
+```make filename```
 
 ```./filename```
 
